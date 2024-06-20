@@ -33,8 +33,8 @@ VITE_Output_Tokens
 
 <div class="d-flex">
 
-<img src="./ShowCase/1.png"  width="30%" height="450px"  />
-<img src="./ShowCase/2.png"  width="30%" height="450px"  />
+<img src="./ShowCase/1.png"  width="30%" height="550px"  />
+<img src="./ShowCase/2.png"  width="30%" height="550px"  />
 
 </div>
 ## Contributing
